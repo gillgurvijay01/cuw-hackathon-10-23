@@ -1,0 +1,2 @@
+docker build -t discordhackathon .
+docker run -it discordhackathon
